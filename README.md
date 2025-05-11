@@ -1,6 +1,4 @@
-<p align="center">
-
-# Hola
+# Hola!
 Interested in social research, data managment and interactive-design
 
 <p align="center">
@@ -8,4 +6,3 @@ Interested in social research, data managment and interactive-design
 </p>
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodduartebb&show_icons=true)
